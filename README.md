@@ -28,7 +28,7 @@ Source: Sample data often used for Power BI/Tableau demonstrations.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/superstore-sales-dashboard.git
+   https://github.com/adithn04/PowerBi_Superstore_Dashboard.git
    ```
 
 2. Open `Sales Data - Superstore.xls` in Power BI Desktop.
