@@ -2,7 +2,6 @@
 
 This project showcases an interactive Power BI dashboard built using the Superstore sales dataset. It highlights key sales insights through visual analytics, including KPIs, category-wise trends, and regional performance.
 
-![Dashboard Screenshot](assets/Dashboard_Screenshot.png)
 
 ---
 
